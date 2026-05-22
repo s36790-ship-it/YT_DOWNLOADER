@@ -16,3 +16,6 @@ ENV/
 dist/
 build/
 *.spec
+
+YTDOWNLOADER/
+*.7z
