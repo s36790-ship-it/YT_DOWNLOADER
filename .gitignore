@@ -1,0 +1,18 @@
+# Ignoruj pliki wykonywalne i binarne (zajmują za dużo miejsca)
+*.dll
+
+# Ignoruj foldery środowiska wirtualnego Pythona i pamięci podręcznej
+__pycache__/
+*.pyc
+.venv/
+venv/
+ENV/
+
+# Ignoruj pliki konfiguracyjne systemowe i edytorów
+.vscode/
+.idea/
+.DS_Store
+
+dist/
+build/
+*.spec
